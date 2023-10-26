@@ -1,0 +1,177 @@
+#container {
+  text-align: center;
+ 
+}
+
+#button1{
+  background-image: url(https://i.ibb.co/PD7vTrF/aWEuanBn.jpg);
+  background-position: center center;
+  background-size: cover;
+  padding: 110px;
+  margin: 10px;
+  border-radius: 15px;
+  color: #000000;
+}
+
+#button2{
+  background-image: url(https://images-gmi-pmc.edge-generalmills.com/8a7c1402-3eca-425a-8c3c-e2ed18b9e10d.jpg);
+  background-position: center center;
+  background-size: cover;
+  padding: 130px;
+  margin: 10px;
+  border-radius: 15px;
+  color: #000000;
+}
+
+#button3{
+  background-image: url(https://images-gmi-pmc.edge-generalmills.com/8f518e2c-ad62-4480-b6e1-cdf10a9f6c08.jpg);
+  background-position: center center;
+  background-size: cover;
+  padding: 100px;
+  margin: 10px;
+  border-radius: 15px;
+  color: #000000;
+}
+
+#button4{
+  background-image: url(https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/3964b77d9ff84585e562ad1bd1205e25.jpg);
+  background-position: center center;
+  background-size: cover;
+  padding: 140px;
+  margin: 10px;
+  border-radius: 15px;
+  color: #000000;
+}
+
+#button5{
+  background-image: url(https://cdn.colombia.com/sdi/2019/07/16/el-cocido-boyacense-con-presencia-timida-en-cundinamarca-753538.webp);
+  background-position: center center;
+  background-size: cover;
+  padding: 95px;
+  margin: 10px;
+  border-radius: 15px;
+  color: #000000;
+}
+
+#button6{
+  background-image: url(https://boquisabroso.com.co/wp-content/uploads/2023/02/Receta-de-Aborrajados.jpg);
+  background-position: center center;
+  background-size: cover;
+  padding: 38px;
+  margin: 10px;
+  border-radius: 15px;
+  color: #000000;
+}
+
+#carrusel{
+  display:run-in;
+}
+
+.ion-page{
+  background-color: #6F2D2D;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cuadro {
+  background-color: #A1FBAA;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+  color: #000000;
+}
+
+.titulo {
+  font-weight: bold;
+}
+
+.parrafo {
+  margin-top: 10px; 
+}
+
+.cuadro-segundo {
+  background-color: #70FBC9;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+  color: #000000;
+}
+
+.titulo-segundo {
+  font-weight: bold;
+}
+
+.parrafo-segundo {
+  margin-top: 10px;
+}
+
+.parrafo-centrado {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.parrafo-negrita {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.imagen {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  margin-top: 7px;
+}
+
+.imagen img {
+  max-width: 150px;
+  height: auto;
+}
+
+.footer {
+  background-color: #894242;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+}
+
+.redes-sociales {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.redes-sociales-text {
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.redes-sociales ion-img {
+  width: 30px; /* Tamaño de los logos de redes sociales */
+  height: 30px; /* Tamaño de los logos de redes sociales */
+}
+
+.texto {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.copyright {
+  font-size: 14px;
+}

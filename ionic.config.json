@@ -1,0 +1,7 @@
+{
+  "name": "CocinaExpress",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
